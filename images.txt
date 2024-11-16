@@ -1,3 +1,2 @@
-alpine
 80x86/clash
 
