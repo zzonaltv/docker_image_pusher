@@ -1,2 +1,2 @@
-80x86/clash
+clash
 
